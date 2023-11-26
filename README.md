@@ -7,15 +7,17 @@
   <p>A Tool for Resume Analysis, Predictions and Recommendations</p>
   <!-- Badges -->
   <p>
-    <img src="https://img.shields.io/github/last-commit/deepakpadhi986/AI-Resume-Analyzer" alt="last update" />
+    <img src="https://img.shields.io/github/last-commit/deba951/Final-Year-Project" alt="last update" />
     <img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103" alt="open source" />
-    <img src="https://img.shields.io/github/languages/top/deepakpadhi986/AI-Resume-Analyzer?color=red" alt="language" />
-    <img src="https://img.shields.io/github/languages/code-size/deepakpadhi986/AI-Resume-Analyzer?color=informational" alt="code size" />
-    <img src="https://visitor-badge.glitch.me/badge?page_id=deepakpadhi986.AI-Resume-Analyzer&left_color=grey&right_color=blueviolet" alt="visitors count" />
-    <a href="https://github.com/deepakpadhi986/AI-Resume-Analyzer/blob/main/LICENSE">
-      <img src="https://img.shields.io/github/license/deepakpadhi986/AI-Resume-Analyzer.svg?color=yellow" alt="license" />
+    <img src="https://img.shields.io/github/languages/top/deba951/Final-Year-Project?color=red" alt="language" />
+    <img src="https://img.shields.io/github/languages/code-size/deba951/Final-Year-Project?color=informational" alt="code size" />
+    <img src="https://visitor-badge.glitch.me/badge?page_id=deba951.Final-Year-Project&left_color=grey&right_color=blueviolet" alt="visitors count" />
+    <a href="https://github.com/deba951/Final-Year-Project/blob/main/LICENSE">
+      <img src="https://img.shields.io/github/license/deba951/Final-Year-Project.svg?color=yellow" alt="license" />
     </a>
   </p>
+
+
   
   <!--links-->
   <h4>
